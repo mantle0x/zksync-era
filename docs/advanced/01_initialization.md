@@ -4,7 +4,7 @@ The goal of this doc, is to show you some more details on how zkSync works inter
 
 Please follow the instructions in dev_setup.md and development.md; these documents contain commands that handle the heavy lifting of starting the system's components.
 
-Now let's take a look what's inside:
+Now let's take a look at what's inside:
 
 ### Initialization (zk init)
 
